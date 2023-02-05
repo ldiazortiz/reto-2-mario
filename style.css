@@ -17,7 +17,7 @@
     --azul:#0000ff;
 }
 .mario {
-    margin: 70px 150px;
+  margin: 70px 150px;
   width: 20px;
   height: 20px;
   font-size: 20px;
@@ -132,8 +132,8 @@
      -1em 10em var(--azul),
       0em 10em var(--azul),
       1em 10em var(--red),
-      2em 10em var(--azul),
-      3em 10em var(--azul),
+      2em 10em var(--red),
+      3em 10em var(--red),
       4em 10em var(--red),
       5em 10em var(--azul),
       6em 10em var(--azul),
@@ -187,19 +187,5 @@
       5em 15em var(--marron),
       6em 15em var(--marron),
       7em 15em var(--marron),
-      8em 15em var(--marron)
-
-
-
-
-
-
-
-
-
-
-
-
-  ;
-
+      8em 15em var(--marron);
 }
