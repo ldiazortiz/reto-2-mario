@@ -1,0 +1,28 @@
+/* .mario {
+  width: 200px;
+  height: 200px;
+  margin: 80px auto;
+  background-color: steelblue;
+
+  box-shadow: 0 200px currentColor;
+} */
+
+/* Colores
+#f00 rojo
+#000 negro
+#974807 cafe
+#fac090 piel
+#ffff00 amarillo
+*/
+
+*{
+    --color-red: #f00;
+    --color-negro: #000;
+    --color-marron: #974807
+    --color-piel: ##fac090;
+    --color-amarillo: #ffff00;
+}
+.mario {
+  width: 20px;
+  height: 20px;
+}
